@@ -1,0 +1,2 @@
+# Android-7-ActivityPost
+Project中有兩個activity, 各有一個button、可以輸入的editView, 點擊Aactivity中的button會跳到Bactivity, 並將輸入的文字傳送到，Ｂactivity。點擊Bactivity中的button會跳到Aactivity，並將activity的數值顯示在A頁面中。
